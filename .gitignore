@@ -1,0 +1,17 @@
+__pycache__
+.idea
+test/test_file_api.py
+*.log
+test*.py
+pyenv-*
+/src/.idea
+/src/model_test
+/src/venv
+/src/backup
+/src/log
+/src/pyvenv-apikey
+/src/test
+tmp
+logs
+log
+test
